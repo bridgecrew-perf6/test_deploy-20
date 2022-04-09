@@ -1,6 +1,4 @@
 import adapter from '@sveltejs/adapter-static';
-import { searchForWorkspaceRoot } from 'vite'
-
 import path from 'path';
 
 export default {
