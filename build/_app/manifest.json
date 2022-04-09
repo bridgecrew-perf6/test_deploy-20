@@ -1,0 +1,90 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-cf6b6c71.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js",
+      "_paths-396f020f.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/imprint.svelte",
+      "src/routes/index.svelte",
+      "src/routes/project.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-e3b89c37.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js",
+      "_paths-396f020f.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-3980588c.css"
+    ],
+    "assets": [
+      "assets/LogoIDiv_white-68c77e5d.gif"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-df658e5b.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js"
+    ]
+  },
+  "src/routes/imprint.svelte": {
+    "file": "pages/imprint.svelte-c15b112d.js",
+    "src": "src/routes/imprint.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js",
+      "_env-859c48a7.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-c7498be2.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js",
+      "_env-859c48a7.js",
+      "_index-e6222c86.js"
+    ]
+  },
+  "src/routes/project.svelte": {
+    "file": "pages/project.svelte-4d1281de.js",
+    "src": "src/routes/project.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-3e01cf4c.js",
+      "_env-859c48a7.js",
+      "_index-e6222c86.js"
+    ]
+  },
+  "_index-3e01cf4c.js": {
+    "file": "chunks/index-3e01cf4c.js"
+  },
+  "_paths-396f020f.js": {
+    "file": "chunks/paths-396f020f.js"
+  },
+  "_env-859c48a7.js": {
+    "file": "chunks/env-859c48a7.js"
+  },
+  "_index-e6222c86.js": {
+    "file": "chunks/index-e6222c86.js",
+    "imports": [
+      "_index-3e01cf4c.js"
+    ]
+  }
+}
