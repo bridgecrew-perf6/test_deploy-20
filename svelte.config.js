@@ -12,8 +12,8 @@ export default {
 			sr: false
 		}),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/micoda' : ''
-			//base: process.env.NODE_ENV === 'production' ? '' : ''
+			//base: process.env.NODE_ENV === 'production' ? '/micoda' : ''
+			base: process.env.NODE_ENV === 'production' ? '' : ''
 		},
 		trailingSlash: 'always',
 

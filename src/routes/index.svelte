@@ -14,8 +14,8 @@
 	// it so that it gets served as a static asset in prod
 	export const prerender = true;
 
-    let local_url = '/neha/query';
-	let local_url_download = '/neha/download';
+    let local_url = 'https://planthub.idiv.de/neha//query';
+	let local_url_download = 'https://planthub.idiv.de/neha//download';
 	if (dev) {
 		local_url = 'http://localhost:8088/query';
 		local_url_download = 'http://localhost:8088/download';
